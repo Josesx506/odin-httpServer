@@ -1,0 +1,13 @@
+{
+  "name": "info_site",
+  "version": "1.0.0",
+  "description": "basic informational site with nodejs simple server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "watch": "node --watch index"
+  },
+  "author": "Joe",
+  "license": "ISC"
+}
